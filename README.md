@@ -1,2 +1,2 @@
 # my github practice 
-i am not yet good to go 
+I am not yet good to go 
